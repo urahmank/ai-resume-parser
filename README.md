@@ -2,6 +2,8 @@
 
 A Next.js application that uses Google's Gemini AI to parse resumes and extract structured information including personal details, skills, education, and work experience.
 
+Live link here: https://ai-resume-parser-pi.vercel.app/
+
 ## Features
 
 - 📄 Upload PDF or text resumes
